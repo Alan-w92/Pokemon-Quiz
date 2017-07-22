@@ -1,0 +1,25 @@
+#right {
+  color: green;
+}
+
+#wrong {
+  color: red;
+}
+
+#questionNumber {
+  margin-left: 19em;
+}
+
+body {
+  background-color: #E0FFFF;
+}
+
+#one, #two, #three, #four, #five, #six {
+  margin-right: 1.7em;
+  margin-bottom: 1.5em;
+}
+
+#picture {
+  max-width: 180px;
+  max-height: 150px;
+}
